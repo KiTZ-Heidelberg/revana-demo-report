@@ -1,9 +1,22 @@
-# revana-demo-report
+Demonstration Results from the Revana R-Package
+================
+Elias Ulrich
+December 5, 2022
 
-Demonstration Results from the Revana R-Package:
+This document shows regulatory variants identified in a cohort of 128
+medulloblastoma samples from the ICGC PedBrain study and demonstrates
+some of the more advanced features of *Revana* in action.
 
-Regulatory variants identified in a cohort of 128 medulloblastoma samples from the ICGC PedBrain study
+Open <https://kitz-heidelberg.github.io/revana-demo-report/report.html>
+to view the HTML report.
 
-View the results.html file in action under https://kitz-heidelberg.github.io/revana-demo-report/report.html
+Use a current browser version for the optimal experience (features have
+been tested in Google Chrome)
 
-Use a current browser version for the optimal experience (features have been tested in Google Chrome)
+# Links
+
+📖 Find the installation and usage walkthrough with demo data under
+[here](https://github.com/KiTZ-Heidelberg/revana-demo-data)
+
+📁 Find the package repository and documentation of Revana
+[here](https://github.com/KiTZ-Heidelberg/Revana)
